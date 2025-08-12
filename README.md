@@ -6,10 +6,10 @@ This is the official static website of Union Inc, a modern digital solutions com
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  Union Inc.
-  <title>icon</title>
+ 
   <link rel="icon" href="logo.png" type="image/png" sizes="96x96">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <script src="https://unpkg.com/lucide@latest"></script>
+  
 </head>
 <body class="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 text-gray-800 p-8">
   <main class="max-w-4xl mx-auto text-center space-y-6">
