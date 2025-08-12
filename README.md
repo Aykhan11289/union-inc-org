@@ -5,7 +5,7 @@ This is the official static website of Union Inc, a modern digital solutions com
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Union Inc.</title>
+ Union Inc.
   <title>icon</title>
   <link rel="icon" href="logo.png" type="image/png" sizes="96x96">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
