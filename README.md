@@ -51,10 +51,8 @@ This is the official static website of Union Inc, a modern digital solutions com
   </div>
 </div>
 
-  </section>  <footer class="mt-16 text-center text-sm text-gray-600">
-    &copy; <script>document.write(new Date().getFullYear())</script> Union Inc. All rights reserved.
-  </footer>  <script>
-    lucide.createIcons();
-  </script></body>
+  </section>  <footer>2025 Union Inc. All rights reserved.
+  </footer>
+</body>
 </html> 
 
