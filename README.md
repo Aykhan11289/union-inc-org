@@ -22,15 +22,7 @@ This is the official static website of Union Inc, a modern digital solutions com
 			  <h1 class="text-4xl font-bold" style="color: #1f5b85fe;">Union Inc</h1>
 		  </div>-->
 		  <!--<div class="flex justify-center space-x-4 mt-4">-->
-		  <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-      <!--<a href="https://unioninc.org" target="_blank" class="border px-4 py-2 rounded border-blue-700 text-blue-700 hover:bg-blue-100">unioninc.org</a>
-      <a href="https://kuryer.online" target="_blank" class="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800">kuryer.online</a>
-      <a href="https://klerk.online" target="_blank" class="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800">klerk.online</a>-->
-      <a href="https://unioninc.org" target="_blank" class="border px-4 py-2 rounded border-blue-700 hover:bg-blue-100" style="color: #1f5b85fe;">unioninc.org</a>
-      <a href="https://kuryer.online" target="_blank" class="text-white px-4 py-2 rounded hover:bg-blue-800" style="background-color: #1f5b85fe;">kuryer.online</a>
-      <a href="https://klerk.online" target="_blank" class="text-white px-4 py-2 rounded hover:bg-blue-800" style="background-color: #1f5b85fe;">klerk.online</a>
-      <a href="https://axtar.online" target="_blank" class="text-white px-4 py-2 rounded hover:bg-blue-800" style="background-color: #1f5b85fe;">axtar.online</a>
-    </div>
+		 
   </main>  <section class="mt-12 grid gap-6 md:grid-cols-2 max-w-4xl mx-auto">
     <div class="bg-white p-6 rounded shadow">
       <h2 class="text-2xl font-semibold mb-2">Our Mission</h2>
